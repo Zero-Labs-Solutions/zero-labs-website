@@ -67,7 +67,7 @@ const FeaturesSplit = ({
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
         
                 <h3 className="mt-0 mb-12">
-                  Zero Forgery
+                  TruCer
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -103,11 +103,7 @@ const FeaturesSplit = ({
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">
-                <Image
-                  src={require('./../../assets/images/campus.png')}
-                  alt="Features split 02"
-                  width={528}
-                  height={396} />
+                
               </div>
             </div>
 

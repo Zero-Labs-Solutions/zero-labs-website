@@ -60,12 +60,12 @@ const Hero = ({
       <div className="container-sm">
         <div className={innerClasses}>
           <div className="hero-contents">
-            <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              What problems we can solve with <span className="text-colors">Blockchain?</span>
+            <h1 className="mt-0 mb-16 reveal-from-bottom font-size" data-reveal-delay="200">
+              Trust without <span className="text-colors">trust!</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              We are investigating what problems we can solve with blockchain.                </p>
+              Empowering Solutions, Tackling Real-World Challenges with Blockchain.               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" className="button1" wideMobile href="0">
